@@ -8,23 +8,23 @@
 
 Nesse módulo iremos conhecer os principais conceitos de Node.js e aplicá-los na contrução da nossa primeira aplicação backend
 
-[Copy of Conceitos do Node](https://www.notion.so/Copy-of-Conceitos-do-Node-d687b8370c9d41c9891b2ac99e0e7ee9)
+[Conceitos do Node](https://www.notion.so/Copy-of-Conceitos-do-Node-d687b8370c9d41c9891b2ac99e0e7ee9)
 
-[Copy of Conceitos API REST](https://www.notion.so/Copy-of-Conceitos-API-REST-bb80fc541a8843e7927dc6e80313a6e2)
+[Conceitos API REST](https://www.notion.so/Copy-of-Conceitos-API-REST-bb80fc541a8843e7927dc6e80313a6e2)
 
-[Copy of Criando projeto Node](https://www.notion.so/Copy-of-Criando-projeto-Node-e10718df38da4e8ea449f83a7b561d4f)
+[Criando projeto Node](https://www.notion.so/Copy-of-Criando-projeto-Node-e10718df38da4e8ea449f83a7b561d4f)
 
-[Copy of Configurando Nodemon](https://www.notion.so/Copy-of-Configurando-Nodemon-568e80cc49304456bac7b6354522aa6c)
+[Configurando Nodemon](https://www.notion.so/Copy-of-Configurando-Nodemon-568e80cc49304456bac7b6354522aa6c)
 
-[Copy of Métodos HTTP](https://www.notion.so/Copy-of-M-todos-HTTP-426b632c7f644f00bf7ff36e9343e681)
+[Métodos HTTP](https://www.notion.so/Copy-of-M-todos-HTTP-426b632c7f644f00bf7ff36e9343e681)
 
-[Copy of Utilizando o Insomnia](https://www.notion.so/Copy-of-Utilizando-o-Insomnia-490d28a5b01848d68b8d298688dba494)
+[Utilizando o Insomnia](https://www.notion.so/Copy-of-Utilizando-o-Insomnia-490d28a5b01848d68b8d298688dba494)
 
-[Copy of Tipos de parametros](https://www.notion.so/Copy-of-Tipos-de-parametros-d9183a1b4509432d89f462e383c660c2)
+[Tipos de parametros](https://www.notion.so/Copy-of-Tipos-de-parametros-d9183a1b4509432d89f462e383c660c2)
 
-[Copy of Aplicação Funcional](https://www.notion.so/Copy-of-Aplica-o-Funcional-7b6b7b5272164c55bea48913cc1a05c4)
+[Aplicação Funcional](https://www.notion.so/Copy-of-Aplica-o-Funcional-7b6b7b5272164c55bea48913cc1a05c4)
 
-[Copy of Middlewares](https://www.notion.so/Copy-of-Middlewares-70c8540a3d0441e5bba4f864b41620f9)
+[Middlewares](https://www.notion.so/Copy-of-Middlewares-70c8540a3d0441e5bba4f864b41620f9)
 
 [Desafio: Conceitos NodeJS](https://www.notion.so/Desafio-Conceitos-NodeJS-4c6d61d2b8bb4ba194953f8ec0b4e864)
 
