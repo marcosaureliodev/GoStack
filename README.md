@@ -1,6 +1,6 @@
 <h4 align="center">
  <img src="https://camo.githubusercontent.com/8c13dc2618dbd7f76d1d574350b98fdee1335ce5/68747470733a2f2f726f636b6574736561742d63646e2e73332d73612d656173742d312e616d617a6f6e6177732e636f6d2f626f6f7463616d702d6865616465722e706e67" width="250px"/></br>
-<img src="https://camo.githubusercontent.com/fe3c024b1884d9c2189321feb6a849724e35b211/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c4943454e254333253837412d4d49542d475245454e"/></br></br>
+<img src="https://camo.githubusercontent.com/fe3c024b1884d9c2189321feb6a849724e35b211/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c4943454e254333253837412d4d49542d475245454e"></br></br>
  <b>Anotações das aulas feitas no Bootcamp GoStack 2020.</b>
 </h4>
 
@@ -8,25 +8,27 @@
 
 Nesse módulo iremos conhecer os principais conceitos de Node.js e aplicá-los na contrução da nossa primeira aplicação backend
 
-[Conceitos do Node](https://www.notion.so/Copy-of-Conceitos-do-Node-d687b8370c9d41c9891b2ac99e0e7ee9)
+<img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Copy-of-Conceitos-do-Node-d687b8370c9d41c9891b2ac99e0e7ee9"> Conceitos do Node</A></img> <br>
 
-[Conceitos API REST](https://www.notion.so/Copy-of-Conceitos-API-REST-bb80fc541a8843e7927dc6e80313a6e2)
+<img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Copy-of-Conceitos-API-REST-bb80fc541a8843e7927dc6e80313a6e2"> Conceitos API REST</A></img> <br>
 
-[Criando projeto Node](https://www.notion.so/Copy-of-Criando-projeto-Node-e10718df38da4e8ea449f83a7b561d4f)
+<img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Copy-of-Criando-projeto-Node-e10718df38da4e8ea449f83a7b561d4f"> Criando projeto Node</A></img> <br>
+[]()
 
-[Configurando Nodemon](https://www.notion.so/Copy-of-Configurando-Nodemon-568e80cc49304456bac7b6354522aa6c)
+<img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Copy-of-Configurando-Nodemon-568e80cc49304456bac7b6354522aa6c"> Configurando Nodemon</A></img> <br>
+[]()
 
-[Métodos HTTP](https://www.notion.so/Copy-of-M-todos-HTTP-426b632c7f644f00bf7ff36e9343e681)
+<img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Copy-of-M-todos-HTTP-426b632c7f644f00bf7ff36e9343e681"> Métodos HTTP</A></img> <br>
 
-[Utilizando o Insomnia](https://www.notion.so/Copy-of-Utilizando-o-Insomnia-490d28a5b01848d68b8d298688dba494)
+<img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Copy-of-Utilizando-o-Insomnia-490d28a5b01848d68b8d298688dba494"> Utilizando o Insomnia</A></img> <br>
 
-[Tipos de parametros](https://www.notion.so/Copy-of-Tipos-de-parametros-d9183a1b4509432d89f462e383c660c2)
+<img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Copy-of-Tipos-de-parametros-d9183a1b4509432d89f462e383c660c2"> Tipos de parametros</A></img> <br>
 
-[Aplicação Funcional](https://www.notion.so/Copy-of-Aplica-o-Funcional-7b6b7b5272164c55bea48913cc1a05c4)
+<img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Copy-of-Aplica-o-Funcional-7b6b7b5272164c55bea48913cc1a05c4"> Aplicação Funcional</A></img> <br>
 
-[Middlewares](https://www.notion.so/Copy-of-Middlewares-70c8540a3d0441e5bba4f864b41620f9)
+<img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Copy-of-Middlewares-70c8540a3d0441e5bba4f864b41620f9"> Middlewares</A></img> <br>
 
-[Desafio: Conceitos NodeJS](https://www.notion.so/Desafio-Conceitos-NodeJS-4c6d61d2b8bb4ba194953f8ec0b4e864)
+<img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Desafio-Conceitos-NodeJS-4c6d61d2b8bb4ba194953f8ec0b4e864"> Desafio: Conceitos NodeJS</A></img> <br>
 
 ## Acompanhe-me nas redes sociais.
 
