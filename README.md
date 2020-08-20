@@ -4,29 +4,29 @@
  <b>Anotações das aulas feitas no Bootcamp GoStack 2020.</b>
 </h4>
 
-# Nível 01
-
-## Back-end com Node.js
+# ✅ Back-end com Node.js
 
 Nesse módulo iremos conhecer os principais conceitos de Node.js e aplicá-los na contrução da nossa primeira aplicação backend
 
-[Conceitos do Node](https://www.notion.so/Conceitos-do-Node-6f065e5a2de745e2a4ff8a9f4ca035bb)
+[Copy of Conceitos do Node](https://www.notion.so/Copy-of-Conceitos-do-Node-d687b8370c9d41c9891b2ac99e0e7ee9)
 
-[Conceitos API REST](https://www.notion.so/Conceitos-API-REST-becebe6aeca74c1887bcb17d805db6be)
+[Copy of Conceitos API REST](https://www.notion.so/Copy-of-Conceitos-API-REST-bb80fc541a8843e7927dc6e80313a6e2)
 
-[Criando projeto Node](https://www.notion.so/Criando-projeto-Node-c8a6154fee1a478d91392a8ebf8011a7)
+[Copy of Criando projeto Node](https://www.notion.so/Copy-of-Criando-projeto-Node-e10718df38da4e8ea449f83a7b561d4f)
 
-[Configurando Nodemon](https://www.notion.so/Configurando-Nodemon-4db24a8350ce42b5a0b6d74bf1e792c6)
+[Copy of Configurando Nodemon](https://www.notion.so/Copy-of-Configurando-Nodemon-568e80cc49304456bac7b6354522aa6c)
 
-[Métodos HTTP](https://www.notion.so/M-todos-HTTP-dbedad475ce84ff194242efd905c23d4)
+[Copy of Métodos HTTP](https://www.notion.so/Copy-of-M-todos-HTTP-426b632c7f644f00bf7ff36e9343e681)
 
-[Utilizando o Insomnia](https://www.notion.so/Utilizando-o-Insomnia-39ba9ec42c234d7586d1777a8075dd7e)
+[Copy of Utilizando o Insomnia](https://www.notion.so/Copy-of-Utilizando-o-Insomnia-490d28a5b01848d68b8d298688dba494)
 
-[Tipos de parametros](https://www.notion.so/Tipos-de-parametros-7d691fa3a5304d359a9bfa1976467314)
+[Copy of Tipos de parametros](https://www.notion.so/Copy-of-Tipos-de-parametros-d9183a1b4509432d89f462e383c660c2)
 
-[Aplicação Funcional](https://www.notion.so/Aplica-o-Funcional-59808df4019940b5a1b8a5e39fb75b89)
+[Copy of Aplicação Funcional](https://www.notion.so/Copy-of-Aplica-o-Funcional-7b6b7b5272164c55bea48913cc1a05c4)
 
-[Middlewares](https://www.notion.so/Middlewares-a3436a35c90a49caa645498ae3e1fd64)
+[Copy of Middlewares](https://www.notion.so/Copy-of-Middlewares-70c8540a3d0441e5bba4f864b41620f9)
+
+[Desafio: Conceitos NodeJS](https://www.notion.so/Desafio-Conceitos-NodeJS-4c6d61d2b8bb4ba194953f8ec0b4e864)
 
 ## Acompanhe-me nas redes sociais.
 
