@@ -4,7 +4,7 @@
  <b>Anotações das aulas feitas no Bootcamp GoStack 2020.</b>
 </h4>
 
-# ✅ Back-end com Node.js
+# Back-end com Node.js
 
 Nesse módulo iremos conhecer os principais conceitos de Node.js e aplicá-los na contrução da nossa primeira aplicação backend
 
@@ -29,7 +29,7 @@ Nesse módulo iremos conhecer os principais conceitos de Node.js e aplicá-los n
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Copy-of-Middlewares-70c8540a3d0441e5bba4f864b41620f9"> Middlewares</A></img> <br>
 
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Desafio-Conceitos-NodeJS-4c6d61d2b8bb4ba194953f8ec0b4e864"> Desafio: Conceitos NodeJS</A></img> <br>
-
+# Front-end com React
 ## Acompanhe-me nas redes sociais.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-aur%C3%A9lio-47b590139/)](https://www.linkedin.com/in/marcos-aur%C3%A9lio-47b590139/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&labelColor=FF0000&logo=instagram&logoColor=white&link=https://www.instagram.com/marcosaurelio.oficial)](https://www.instagram.com/marcosaurelio.oficial) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aurlio_a)](https://twitter.com/aurlio_a) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcos.aureliodev@gmail.com)](mailto:marcos.aureliodev@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5599982501381)](https://api.whatsapp.com/send?phone=5599982501381) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/MarcosAureliodev)](https://t.me/MarcosAureliodev)
