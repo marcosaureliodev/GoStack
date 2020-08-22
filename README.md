@@ -6,7 +6,7 @@
 
 # Back-end com Node.js
 
-Nesse módulo iremos conhecer os principais conceitos de Node.js e aplicá-los na contrução da nossa primeira aplicação backend
+Neste módulo iremos conhecer os principais conceitos de Node.js e aplicá-los na contrução da nossa primeira aplicação backend
 
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Copy-of-Conceitos-do-Node-d687b8370c9d41c9891b2ac99e0e7ee9"> Conceitos do Node</A></img> <br>
 
@@ -30,9 +30,13 @@ Nesse módulo iremos conhecer os principais conceitos de Node.js e aplicá-los n
 
 # Front-end com React
 
+Agora continuaremos na nosaa jornada, conhecendo os principais conceitos do ReactJS. Desenvolvendo a nossa primeira aplicação web e vamos conecta-la no backend que criamos no último módulo.
+
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icons8-react-100.png" width="25px"><a href="https://www.notion.so/Conceitos-ReactJS-06d7f9f3e75a402babfab1be71da0a23"> Conceitos ReactJS</a></img> <br>
 
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icons8-react-100.png" width="25px"><a href="https://www.notion.so/Configurando-Babel-382418c2b51a445e9d1ef0362380b851"> Configurando Babel</a></img> <br>
+
+<img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icons8-react-100.png" width="25px"><a href="https://www.notion.so/Configurando-Webpack-93a5e2c04ed04e11b5b92223f42395a7"> Configurando Webpack</a></img> <br>
 
 ## Acompanhe-me nas redes sociais.
 
