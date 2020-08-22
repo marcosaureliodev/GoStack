@@ -32,7 +32,7 @@ Nesse módulo iremos conhecer os principais conceitos de Node.js e aplicá-los n
 
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icons8-react-100.png" width="25px"><a href="https://www.notion.so/Conceitos-ReactJS-06d7f9f3e75a402babfab1be71da0a23"> Conceitos ReactJS</a></img> <br>
 
-<img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icons8-react-100.png" width="25px"><a href="https://www.notion.so/Conceitos-ReactJS-06d7f9f3e75a402babfab1be71da0a23"> Configurando Babel</a></img> <br>
+<img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icons8-react-100.png" width="25px"><a href="https://www.notion.so/Configurando-Babel-382418c2b51a445e9d1ef0362380b851"> Configurando Babel</a></img> <br>
 
 ## Acompanhe-me nas redes sociais.
 
