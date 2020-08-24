@@ -9,23 +9,14 @@
 Neste módulo iremos conhecer os principais conceitos de Node.js e aplicá-los na contrução da nossa primeira aplicação backend
 
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Copy-of-Conceitos-do-Node-d687b8370c9d41c9891b2ac99e0e7ee9"> Conceitos do Node</A></img> <br>
-
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Copy-of-Conceitos-API-REST-bb80fc541a8843e7927dc6e80313a6e2"> Conceitos API REST</A></img> <br>
-
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Copy-of-Criando-projeto-Node-e10718df38da4e8ea449f83a7b561d4f"> Criando projeto Node</A></img> <br>
-
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Copy-of-Configurando-Nodemon-568e80cc49304456bac7b6354522aa6c"> Configurando Nodemon</A></img> <br>
-
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Copy-of-M-todos-HTTP-426b632c7f644f00bf7ff36e9343e681"> Métodos HTTP</A></img> <br>
-
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Copy-of-Utilizando-o-Insomnia-490d28a5b01848d68b8d298688dba494"> Utilizando o Insomnia</A></img> <br>
-
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Copy-of-Tipos-de-parametros-d9183a1b4509432d89f462e383c660c2"> Tipos de parametros</A></img> <br>
-
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Copy-of-Aplica-o-Funcional-7b6b7b5272164c55bea48913cc1a05c4"> Aplicação Funcional</A></img> <br>
-
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Copy-of-Middlewares-70c8540a3d0441e5bba4f864b41620f9"> Middlewares</A></img> <br>
-
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icon8-nodejs.png" width="25px"><a href="https://www.notion.so/Desafio-Conceitos-NodeJS-4c6d61d2b8bb4ba194953f8ec0b4e864"> Desafio: Conceitos NodeJS</A></img> <br>
 
 # Front-end com React
@@ -33,16 +24,12 @@ Neste módulo iremos conhecer os principais conceitos de Node.js e aplicá-los n
 Agora continuaremos na nosaa jornada, conhecendo os principais conceitos do ReactJS. Desenvolvendo a nossa primeira aplicação web e vamos conecta-la no backend que criamos no último módulo.
 
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icons8-react-100.png" width="25px"><a href="https://www.notion.so/Conceitos-ReactJS-06d7f9f3e75a402babfab1be71da0a23"> Conceitos ReactJS</a></img> <br>
-
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icons8-react-100.png" width="25px"><a href="https://www.notion.so/Configurando-Babel-382418c2b51a445e9d1ef0362380b851"> Configurando Babel</a></img> <br>
-
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icons8-react-100.png" width="25px"><a href="https://www.notion.so/Configurando-Webpack-93a5e2c04ed04e11b5b92223f42395a7"> Configurando Webpack</a></img> <br>
-
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icons8-react-100.png" width="25px"><a href="https://www.notion.so/Componentiza-o-db58baaa0ae648dcb16a6514a2ee3f21"> Componentização</a></img> <br>
-
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icons8-react-100.png" width="25px"><a href="https://www.notion.so/Propriedades-ee1a555793f641b5a4094c7ff888489f"> Propriedades</a></img> <br>
-
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icons8-react-100.png" width="25px"><a href="https://www.notion.so/Estado-e-Imutabilidade-4d9f106e63174d4bbe87dcbf652d8d4c"> Estado e Imutabilidade</a></img> <br>
+<img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icons8-react-100.png" width="25px"><a href="https://www.notion.so/Importando-CSS-e-imagens-952d36218a3444c088dae4bbf203ced2"> Importando CSS e imagens</a></img> <br>
 ## Acompanhe-me nas redes sociais.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-aur%C3%A9lio-47b590139/)](https://www.linkedin.com/in/marcos-aur%C3%A9lio-47b590139/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&labelColor=FF0000&logo=instagram&logoColor=white&link=https://www.instagram.com/marcosaurelio.oficial)](https://www.instagram.com/marcosaurelio.oficial) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aurlio_a)](https://twitter.com/aurlio_a) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcos.aureliodev@gmail.com)](mailto:marcos.aureliodev@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5599982501381)](https://api.whatsapp.com/send?phone=5599982501381) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/MarcosAureliodev)](https://t.me/MarcosAureliodev)
