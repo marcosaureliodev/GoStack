@@ -39,6 +39,8 @@ Agora continuaremos na nosaa jornada, conhecendo os principais conceitos do Reac
 Partimos para o mundo do mobile, conhecendo os conceitos do React Native e desenvolvendo noassa primeira aplicação que irá se conectar com nosso backend.
 
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icons8-react-native-256.png" width="25px"><a href="https://www.notion.so/Arquitetura-React-Native-5c69fe3123b842f39e8eb887900be4bf"> Arquitetura React Native</a></img> <br>
+<img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icons8-react-native-256.png" width="25px"><a href="https://www.notion.so/Configurando-SDK-9ed6f233b29d40df95a9e03d93ebf408"> Configurando SDK</a></img> <br>
+<img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icons8-react-native-256.png" width="25px"><a href="https://www.notion.so/Criando-novo-projeto-4af90e068ce24b0bae377a133a3eaf69"> Criando novo projeto</a></img> <br>
 
 
 ## Acompanhe-me nas redes sociais.
