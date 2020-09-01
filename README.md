@@ -43,6 +43,7 @@ Partimos para o mundo do mobile, conhecendo os conceitos do React Native e desen
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icons8-react-native-256.png" width="25px"><a href="https://www.notion.so/Criando-novo-projeto-4af90e068ce24b0bae377a133a3eaf69"> Criando novo projeto</a></img> <br>
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icons8-react-native-256.png" width="25px"><a href="https://www.notion.so/Diferen-as-do-ReactJS-3596832b7ccb46369171397e92440e05"> Diferenças do ReactJS</a></img> <br>
 <img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icons8-react-native-256.png" width="25px"><a href="https://www.notion.so/Listando-projetos-da-API-e6c5327ce9fe4caaaeae8a9ff8a1664c"> Listando projetos da API</a></img> <br>
+<img src="https://github.com/marcosaureliodev/GoStack/blob/master/Imeges/icons8-react-native-256.png" width="25px"><a href="https://www.notion.so/Criando-novos-projetos-767658d2ef2540849deecf4d8af6bae5"> Criando novos projetos</a></img> <br>
 
 
 ## Acompanhe-me nas redes sociais.
